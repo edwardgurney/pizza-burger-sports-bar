@@ -26,9 +26,12 @@ h1, h2 {
     float: left;
 }
 
+#main-header, #header-links {
+    line-height: 75px;
+}
+
 #header-links {
     float: right;
-    margin: 30px;
     list-style-type: none;
     font-size: 120%;
 }
@@ -41,4 +44,12 @@ h1, h2 {
 #header-links a {
     text-decoration: none;
     color: inherit;
+}
+
+#header-links a:hover {
+    border-bottom: 2px solid;
+}
+
+.active-page {
+    border-bottom: 2px solid
 }
