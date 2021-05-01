@@ -1,3 +1,40 @@
+Link to site
+
+Pictures on different screen (desktop, tablet mobile
+
+Table of contents 
+
+User stories
+
+Design
+
+Fraemwork
+
+Color scheme
+
+Wireframes
+
+Features of site
+
+Features to implement in future versions
+
+Tech Used 
+  HTML & CSS
+  
+Testing
+  W3C & own testing on different viewports etc
+  
+Deployment Section - Walk reader through how they would deploy it to github pages
+
+Credits - Media, (pexels for images)
+
+
+
+
+
+
+
+
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
 Welcome edwardgurney,
