@@ -7,11 +7,38 @@
 }
 
 body {
-    font-family: lobster, sans-serif;
+    font-family: raleway, sans-serif;
     font-weight: 300;
+    color: #928f9d;
 }
 
 
 
 /* header and styling */
 
+h1, h2 {
+    font-family: lobster, sans-serif;
+    color: #7c7986;
+    letter-spacing: 2px;  
+}
+
+#main-header {
+    float: left;
+}
+
+#header-links {
+    float: right;
+    margin: 30px;
+    list-style-type: none;
+    font-size: 120%;
+}
+
+#header-links li {
+    float: left;
+    margin-right: 30px;
+}
+
+#header-links a {
+    text-decoration: none;
+    color: inherit;
+}
