@@ -69,3 +69,44 @@ h1, h2 {
 .our-mission {
     margin: 2% 10%;
 }
+
+/* photos descriptions and styling */
+
+
+.burgers-img {
+    width: 400px;
+    height: 400px;
+    
+}
+
+.pizza-img {
+    width: 400px;
+    height: 400px;
+}
+
+.grid-contain {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-column-gap: 10px;
+    grid-row-gap: 10px;
+    
+}
+
+/*.burger-two img {
+    width: 200px;
+    height: 200px;
+}
+
+
+.top-left-photo {
+    
+    float: left;
+    margin: 10%;
+    width: 49.95%;
+} 
+
+.top-right-photo {
+    float: left;
+    width: 49.95%;
+}
+*/
