@@ -94,21 +94,20 @@ h1, h2 {
     
 }
 
-/*.burger-two img {
-    width: 200px;
-    height: 200px;
+/* Message/Contact Section*/
+
+.name-box {
+    border-style: solid; 
 }
 
-
-.top-left-photo {
-    
-    float: left;
-    margin: 10%;
-    width: 49.95%;
-} 
-
-.top-right-photo {
-    float: left;
-    width: 49.95%;
+.message-box {
+    border-style: solid; 
 }
-*/
+
+.email-box {
+    border-style: solid; 
+}
+
+.submit-box {
+    border-style: solid; 
+}
