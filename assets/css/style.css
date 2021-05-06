@@ -96,18 +96,38 @@ h1, h2 {
 
 /* Message/Contact Section*/
 
+.contact-us {
+    margin: auto;
+    margin-left: 5%;
+    
+}
+
 .name-box {
-    border-style: solid; 
+    border: groove 4px #928f9d;
+    margin: 10px;
+    margin-left: 32px;
+    
+
 }
 
 .message-box {
-    border-style: solid; 
+    border-style: groove;
+    border-width: 4px;
+    border-color: #928f9d;
+    margin: 10px;
+    
 }
 
 .email-box {
-    border-style: solid; 
+    border: groove 4px #928f9d;
+    margin: 10px;
+    margin-left: 30px;
+    
 }
 
 .submit-box {
-    border-style: solid; 
+    border: groove 4px #928f9d;
+    margin: 10px 25px 20px;
+    
+    
 }
