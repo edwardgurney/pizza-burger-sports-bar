@@ -94,13 +94,32 @@ h1, h2 {
     
 }
 
-/* Message/Contact Section*/
+/* Message/Contact Section/Events*/
 
 .contact-us {
+    width: 40%;
     margin: auto;
     margin-left: 5%;
+    background-color: blue;
     
 }
+
+.upcoming-events {
+    width: 40%;
+    margin: auto;
+    margin-right: 5%;
+    text-align: right;
+    background-color: green;
+    
+    
+}
+
+/*.contact-us .upcoming-events {
+    width: 100%;
+    float: left;
+    padding: 0;
+    margin: auto;*/
+
 
 .name-box {
     border: groove 4px #928f9d;
