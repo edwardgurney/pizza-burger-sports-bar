@@ -96,13 +96,30 @@ h1, h2 {
 
 /* Message/Contact Section/Events*/
 
+.flexbox-container {
+    display: flex;
+    justify-content: space-around;
+}
+
 .contact-us {
-    width: 40%;
+    margin-right: 50px;
+}
+
+.upcoming-events {
+    margin-left: 50px;
+    border: groove 4px #928f9d
+}
+/*
+.contact-us {
+
+   width: 40%;
     margin: auto;
     margin-left: 5%;
     background-color: blue;
-    
 }
+  
+    
+
 
 .upcoming-events {
     width: 40%;
@@ -112,13 +129,9 @@ h1, h2 {
     background-color: green;
     
     
+    
 }
-
-/*.contact-us .upcoming-events {
-    width: 100%;
-    float: left;
-    padding: 0;
-    margin: auto;*/
+*/
 
 
 .name-box {

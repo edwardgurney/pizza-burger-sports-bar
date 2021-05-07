@@ -96,6 +96,8 @@ I spoke with tutor support on Monday 3rd May for assistance in aligning the phot
 
 My images were taken from Instagram from an account for a pub called The Tap and Run in Leicestershire. I felt that the photos were relevant and similar to what I imagined would be served at the venue. The account can be accesses by going to www.instagram.com/******
 
+In order to get my 'contact us' section and 'upcoming events' section divs to align next to each other. I used flexbox and I got the information from this training video on youtube https://www.youtube.com/watch?v=fYq5PXgSsbE.
+
 As the venue is imaginery, I used a Mcdonalds in Nottingham as the location, purely for demonstratable purposes. 
 
 Fontawesome was used for social media icons
