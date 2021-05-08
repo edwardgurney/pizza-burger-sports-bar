@@ -16,6 +16,13 @@ body {
 
 /* header and styling */
 
+.my-header {
+   
+    
+    
+}
+
+
 
 h1, h2 {
     font-family: lobster, sans-serif;
@@ -25,10 +32,15 @@ h1, h2 {
     
 }
 
+h1 {
+    color: white;
+}
+
 #main-header {
     float: left;
     font-size: 100%;
     text-decoration: none;
+    
 }
 
 #main-header, #header-links {
@@ -39,6 +51,7 @@ h1, h2 {
     float: right;
     list-style-type: none;
     font-size: 120%;
+    color: white;
 }
 
 #header-links li {
