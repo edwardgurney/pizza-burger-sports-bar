@@ -37,7 +37,7 @@ h1, h2 {
 #header-links {
     float: right;
     list-style-type: none;
-    font-size: 120%;
+    font-size: 150%;
 }
 
 #header-links li {
@@ -94,6 +94,10 @@ h1, h2 {
     
 }
 
+#photos h2 {
+    text-align: center;
+}
+
 /* Message/Contact Section/Events*/
 
 .flexbox-container {
@@ -115,29 +119,6 @@ h1, h2 {
     padding: 10px;
     
 }
-/*
-.contact-us {
-
-   width: 40%;
-    margin: auto;
-    margin-left: 5%;
-    background-color: blue;
-}
-  
-    
-
-
-.upcoming-events {
-    width: 40%;
-    margin: auto;
-    margin-right: 5%;
-    text-align: right;
-    background-color: green;
-    
-    
-    
-}
-*/
 
 
 .name-box {
@@ -166,6 +147,7 @@ h1, h2 {
 .submit-box {
     border: groove 4px #928f9d;
     margin: 10px 25px 20px;
+    padding: 5px;
     
     
 }
