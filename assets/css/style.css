@@ -172,27 +172,34 @@ h1, h2 {
 
 /* Footer and social media */
 
+.flexbox-container-2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
 footer {
     height: 150px;
 }
 
 .social-links {
-    font-size: 150%;
+    width: 250px;
+    font-size: 200%;
     padding: 1%;
     
 }
 
 .facebok-link {
-    padding: 5%;
+    padding: 10%;
     color: #928f9d;
 }
 
 .insta-link {
-    padding: 5%;
+    padding: 10%;
     color: #928f9d;
 }
 
 .twitter-link {
-    padding: 5%;
+    padding: 10%;
     color: #928f9d;
 }
