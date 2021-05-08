@@ -99,15 +99,21 @@ h1, h2 {
 .flexbox-container {
     display: flex;
     justify-content: space-around;
+    align-items: center;
 }
 
 .contact-us {
     margin-right: 50px;
+    
 }
 
 .upcoming-events {
-    margin-left: 50px;
-    border: groove 4px #928f9d
+    margin-right: 50px;
+    margin-top: 20px;
+    margin-bottom: 100px;
+    border: groove 4px #928f9d;
+    padding: 10px;
+    
 }
 /*
 .contact-us {
@@ -163,3 +169,5 @@ h1, h2 {
     
     
 }
+
+/* Footer and social media */
