@@ -102,6 +102,8 @@ As the venue is imaginery, I used a Mcdonalds in Nottingham as the location, pur
 
 Fontawesome was used for social media icons
 
+I had some assistance fro student support on sizing the hero image so that it sat better on the homepage
+
 
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
