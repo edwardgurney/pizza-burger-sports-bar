@@ -171,3 +171,28 @@ h1, h2 {
 }
 
 /* Footer and social media */
+
+footer {
+    height: 150px;
+}
+
+.social-links {
+    font-size: 150%;
+    padding: 1%;
+    
+}
+
+.facebok-link {
+    padding: 5%;
+    color: #928f9d;
+}
+
+.insta-link {
+    padding: 5%;
+    color: #928f9d;
+}
+
+.twitter-link {
+    padding: 5%;
+    color: #928f9d;
+}
