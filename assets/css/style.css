@@ -17,7 +17,7 @@ body {
 /* header and styling */
 
 .my-header {
-    height: 75px;
+    height: 70px;
 }
 
 
@@ -75,7 +75,7 @@ h1, h2 {
 
 #hero-image {
     
-    height: 75vh;
+    height: 82vh;
     width: auto;
     background-image: url(../images/jael-rodriguez-mynsldMi9dg-unsplash.jpg);
     background-size: cover;
@@ -84,7 +84,8 @@ h1, h2 {
 }
 
 .our-mission {
-    margin: 2% 10%;
+    margin: 4% 10%;
+    
 }
 
 /* photos descriptions and styling */
@@ -121,10 +122,13 @@ h1, h2 {
     display: flex;
     justify-content: space-around;
     align-items: center;
+    margin: 50px;
 }
 
 .contact-us {
+
     margin-right: 50px;
+    
     
 }
 
@@ -179,7 +183,7 @@ h1, h2 {
 
 
 footer {
-    height: 150px;
+    height: 100px;
 }
 
 .social-links {
