@@ -82,6 +82,7 @@ h1, h2 {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: bottom;
+    
 }
 
 .our-mission {
@@ -95,12 +96,14 @@ h1, h2 {
 .burgers-img {
     width: 400px;
     height: 400px;
+    border-radius: 10px;
     
 }
 
 .pizza-img {
     width: 400px;
     height: 400px;
+    border-radius: 10px;
 }
 
 .grid-container {
@@ -134,11 +137,13 @@ h1, h2 {
 }
 
 .upcoming-events {
-    margin-right: 50px;
+   /* margin-right: 50px;
     margin-top: 20px;
+    */
     margin-bottom: 100px;
-    border: groove 4px #928f9d;
+    border: groove 4px;
     padding: 10px;
+    border-radius: 5px;
     
 }
 
@@ -149,9 +154,10 @@ h1, h2 {
 
 
 .name-box {
-    border: groove 4px #928f9d;
+    border: groove 4px;
     margin: 10px;
     margin-left: 32px;
+    border-radius: 5px;
     
 
 }
@@ -159,22 +165,24 @@ h1, h2 {
 .message-box {
     border-style: groove;
     border-width: 4px;
-    border-color: #928f9d;
     margin: 10px;
-    
+    border-radius: 5px;
 }
 
 .email-box {
-    border: groove 4px #928f9d;
+    border: groove 4px;
     margin: 10px;
     margin-left: 30px;
+    border-radius: 5px;
     
 }
 
 .submit-box {
-    border: groove 4px #928f9d;
+    border: groove 4px;
     margin: 10px 25px 20px;
     padding: 5px;
+    border-radius: 5px;
+    font-family: raleway, sans-serif;
     
     
 }
@@ -227,4 +235,81 @@ h3 {
     text-align: center;
     line-height: 2.5;
     margin: 75px;
+}
+
+/*Book a Table*/
+
+.book-table {
+    text-align: center;
+}
+
+.main-details {
+   
+    width: 30%;
+    padding: 20px;
+    
+}
+
+.other-details {
+    
+    padding: 20px;
+}
+
+.name-box2 {
+    
+    border-style: groove;
+    width: 95%;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+.email-box2 {
+    width: 95%;
+    border-style: groove;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+.date-box {
+    border-style: groove;
+    border-radius: 5px;
+    margin: 5px;
+    font-family: raleway, sans-serif;
+}
+
+.time-box {
+    border-style: groove;
+    border-radius: 5px;
+    margin: 5px;
+    font-family: raleway, sans-serif;
+}
+
+.party-size-box {
+    border-style: groove;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+.submit-box2 {
+    border-style: groove;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 5px;
+    font-family: raleway, sans-serif;
+}
+
+.message-staff-box {
+    border-style: groove;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+#request-box {
+    border-style: groove;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+textarea {
+    font-family: raleway, sans-serif;
 }

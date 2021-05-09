@@ -39,56 +39,61 @@
     </header>
 
     <section class="form-section">
-        <form>
+        
+        <div class="book-table">
+        <h2>Book a Table</h2>
+        </div>
+        
+        <form class="flexbox-container">
             <!--This first dov is for the lefthandside, ready for flexbox for message box on right side-->
-            <div>
-            <h2>Book a Table</h2>
+            <div class="main-details">
+        
 
             <label for="name-field"></label>
-            <input id="name-field" type="text" placeholder="First Name" class="name-box"/>
+            <input id="name-field" type="text" placeholder="First Name" class="name-box2"/>
             <br>
 
-            <label for="name-field">Name</label>
-            <input id="name-field" type="text" placeholder="Last Name" class="name-box"/>
+            <label for="name-field"></label>
+            <input id="name-field" type="text" placeholder="Last Name" class="name-box2" required/>
             <br>   
             
             <label for="date-field"></label>
-            <input id="date'field" type="date">
+            <input id="date'field" type="date" class="date-box" required>
             <br>
 
             <label for="time-field"></label>
-            <input type="time">
+            <input id="time-field" type="time" class="time-box" required>
             <br>
 
             <label for="party-size"></label>
-            <input type="number">
+            <input id="party-size" type="number" class="party-size-box" placeholder="How Many Guests" required>
             <br>
 
-            <label for="email-field">E-Mail</label>
-            <input id="email-field" type="email" placeholder="who@where.what" required>
+            <label for="email-field"></label>
+            <input id="email-field" type="email" placeholder="who@where.what" class="email-box2" required>
             <br>
 
             <label for="name-field"></label>
-            <input id="name-field" type="text" placeholder="Mobile No:" class="name-box"/>
+            <input id="name-field" type="text" placeholder="Mobile No:" class="name-box2" required/>
             <br>
 
             <label for="submit-field"></label>
-            <input id="submit-field" type="submit">
+            <input id="submit-field" type="submit" value="Book Now" class="submit-box2">
 
             </div>
 
-            <div>
+            <div class="other-details">
              
                 <label for="request-box"></label>
-                <textarea id="request-box" type="text" cols="80" rows="12" placeholder="Any special messages for our staff?"></textarea>
+                <textarea id="request-box" type="text" cols="80" rows="12" class="message-box" class="message-staff-box" placeholder="Any special messages for our staff?"></textarea>
                 <br>
 
                 <label for="new-customer"></label>
-                <button id="new-customer" type="button">I'm new be nice.</button>
+                <input id="new-customer" type="radio" name="customer" class="new-customer-box">I'm new be nice.</button>
                 <br>
 
                 <label for="old-customer"></label>
-                <button id="old-customer" type="button">I've visited you before, I love it.</button>
+                <input id="old-customer" type="radio" name="customer" class="old-customer-box">I've visited you before, I love it.</button>
 
             </div>
         </form>
