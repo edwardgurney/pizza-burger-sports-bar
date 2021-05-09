@@ -27,6 +27,7 @@ h1, h2 {
     color: #7c7986;
     letter-spacing: 2px;  
     font-size: 280%;
+    text-align: center;
     
 }
 
@@ -84,7 +85,7 @@ h1, h2 {
 }
 
 .our-mission {
-    margin: 4% 10%;
+    margin: 2% 10% 3%;
     
 }
 
@@ -139,6 +140,11 @@ h1, h2 {
     border: groove 4px #928f9d;
     padding: 10px;
     
+}
+
+.upcoming-events >h3 {
+    font-family:  raleway, sans-serif;
+
 }
 
 
@@ -206,4 +212,19 @@ footer {
 .twitter-link {
     padding: 10%;
     color: #928f9d;
+}
+
+/*menu*/
+
+h3 {
+    font-family: lobster, sans-serif;
+    color: #7c7986;
+    letter-spacing: 2px;
+    
+}
+
+.full-menu {
+    text-align: center;
+    line-height: 2.5;
+    margin: 75px;
 }

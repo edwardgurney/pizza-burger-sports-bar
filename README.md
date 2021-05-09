@@ -104,6 +104,8 @@ Fontawesome was used for social media icons
 
 I had some assistance fro student support on sizing the hero image so that it sat better on the homepage
 
+I discoverd that using multiple <br> (for my menu section) is bad practice and that you should use <p>&nbsp;</p>. I read this on a few webpages but the first one was https://www.quora.com/How-can-I-add-multiple-blank-lines-in-HTML#:~:text=Skipping%20an%20entire%20line%20in,arguably%20not%20a%20best%20practice. (I used a couple of different methods to show vairation, so I also targetted the class="full-menu" with with some line-height in the CSS file)
+
 
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
