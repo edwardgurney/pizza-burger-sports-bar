@@ -1,12 +1,47 @@
 # **Pizza and Burger Sports Bar**
 
+ ### **Link to site** View this live site here
+ 
   This project is for a pizza and burgr sports bar. The concept of the website is to target potential visitors of the bar and provide the information required for anyone looking for more informtion, they can get the location and address, view the menu, look at upcoming events and also book a table or make contact. The bar is trying to be an upmarket sports bar, so customers can watch sport in nice surroundings, eating nice food and rinking good beer with friends. 
 
   **Pictures on different screen (desktop, tablet mobile)**
 
-### **Link to site**
+
 
   Link will appear here.
+## **User Experience**
+
+
+  ### **User Stories**
+
+  - First Time User Goals<br>
+        1. As a first time visitor to the site and want to know more information about the venue, what type of food it serves and what upcoming events you have on.<br>
+        2. As a first time visitor I would like to find my way around the site easily and be able to get your telephone number.
+
+  - Returning User Goals<br>
+        1. As a returning user I might want to check what particular sports matches you are showing.<br>
+        2. As a returning a user I might want to drop you a quick message to check if you provide a certain service e.g. surve vegan food.<br>
+        3. As a returning customer I may want to book a table.
+
+  - Repeat User Goals<br>
+        1. As a repeat user I'd like to book a table.<br>
+        2. As a repeat user I'd like to check particular sports that you are showing that may not be as popular as football.<br>
+        3. As a repeat user I'd like access your social media links and add you.
+
+## **Design**
+
+  ### **Color Scheme**
+
+  -  The color scheme was chosen to look sleak, in an attempt to attract the correct clientelle to the venue. Dark gray's for the text and headings on a white background is readable, and should also be legible for visually imparied users. 
+
+  ### **Typography**
+
+  -  The Lobster font was used for headings on the site and Raleway fonts were used for all of the content. These two fonts were used becasue they complemented each other and suited the image of the venue. Sans-serif was used as a back up font in case the font isn't imported and this font is recognised by all browsers.  
+
+  ### **Imagery**
+
+  - The hero image of the entrance of the venue was used becasue it gives an immediate feel for the venue and shows it's relaxed design. It is very apparent when the site loads and will illicit immediate feelings of comfort to the user. 
+
 
 ## **Features**
 
@@ -69,12 +104,19 @@
       - Iphone 5C
       - Samsung Galaxy A10
 
+## **Languages Used**
 
   * ###  HTML
         - W3C validator was used and ** errors were found
   
   * ###  CSS
         - Jigsaw validator was used and ** errors were found
+        
+## **Frameworks and Programs Used**
+
+        - Fontawesome
+        - Balsamiq
+        - Google Fonts
 
 ## Unfixed bugs
 
@@ -108,11 +150,6 @@
       - I had some assistance fro student support on sizing the hero image so that it sat better on the homepage
 
       - I discoverd that using multiple <br> (for my menu section) is bad practice and that you should use <p>&nbsp;</p>. I read this on a few webpages but the first one was https://www.quora.com/How-can-I-add-multiple-blank-lines-in-HTML#:~:text=Skipping%20an%20entire%20line%20in,arguably%20not%20a%20best%20practice. (I used a couple of different methods to show vairation, so I also targetted the class="full-menu" with with some line-height in the CSS file).
-
-## **Color Scheme**
-
-
-  The color scheme was chosen to look sleak, in an attempt to attract the correct clientelle to the venue. Dark gray's for the text and headings on a white background is readable, and should also be legible for visually imparied users.       
 
 ## **Wireframes**
 
