@@ -323,8 +323,9 @@ textarea {
 }
 
 /* media queries */
+/* Screens under 1170px */
 
-@media screen and (max-width: 1100px) {
+@media screen and (max-width: 1170px) {
     #photos {
         width: 100%;
         height: 800px;
@@ -348,5 +349,96 @@ textarea {
         margin-top: 0;
 
     }
+    .book-table {
+        width: fit-content;
+        
+        
+    }
+
+
+}
+/* For screen sizes 930px and below */
+
+@media screen and (max-width: 930px) {
+    .my-header {
+        height: 125px;
+        
+    }
+
+
+    #header-links {
+        float: left;
+        margin-left: 235px;
+    }
+
+    .burgers-img {
+        width: 100%;
+        height: 200px;
+        margin: 0 auto;
+    }
+
+    .pizza-img {
+        width: 100%;
+        height: 200px;
+        margin: 0 auto;
+        margin-bottom: 0%;
+    }
+    #photos {
+        width: 100%;
+        height: 600px;
+        margin: 0 auto;
+    }
 }
 
+/* For screen sizes 830px and below */
+
+@media screen and (max-width: 830px) {
+    .my-header {
+        height: 150px;
+        }
+    
+    #header-links {
+    float: left;
+    margin-left: 10px;
+    
+    }
+    
+    #main-header {
+       margin-left: 0%;
+    } 
+
+    .flexbox-container {
+        display: inline-block;
+        justify-content: space-around;
+        align-items: center;
+        margin: 50px;
+    } 
+
+    .upcoming-events {
+        margin-bottom: 10px;
+        border: groove 4px;
+        padding: 10px;
+        border-radius: 5px;
+    }
+
+    .message-staff-box {
+        width: 300px;
+        height: 200px;
+    }
+
+    .book-table {
+        width: fit-content;
+    }
+
+}
+
+/* For screen sizes 526px and below */
+
+@media screen and (max-width: 526px) {
+    
+    .book-table {
+        width: fit-content;
+    }
+
+    
+}

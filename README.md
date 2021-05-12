@@ -85,8 +85,8 @@
 
 ## **Features to implement**
 
-      - A gallery showcasing the best highlights and events at the venue
-      - An improve booking system, where starting times for the bookings can be selected in 15 minute increments only
+      - A gallery showcasing the best highlights and events at the venue.
+      - An improved booking system, where starting times for the bookings can be selected in 15 minute increments only.
 
 ## Testing
 
@@ -122,6 +122,7 @@
 
   * The label 'message' for the text area box on the homepage does not appear at the top of the box, it appears at the bottom.
   * The 'Book a Table' heading does not appear direclty in the middle of the webpage
+  * Some improvement could be made to the alignment of the text in the header from 930px
 
 ## **Deployment**
 
