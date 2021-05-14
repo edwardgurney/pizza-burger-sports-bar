@@ -28,6 +28,9 @@ h1, h2 {
     letter-spacing: 2px;  
     font-size: 280%;
     text-align: center;
+    display: inline-block;
+    width: 100%;
+    margin: 0 auto;
     
 }
 
@@ -68,6 +71,7 @@ h1, h2 {
 
 #header-links a:hover {
     border-bottom: 2px solid;
+    
 }
 
 .active-page {
@@ -76,7 +80,7 @@ h1, h2 {
 
 #hero-image {
     
-    height: 82vh;
+    height: 75vh;
     width: auto;
     background-image: url(../images/jael-rodriguez-mynsldMi9dg-unsplash.jpg);
     background-size: cover;
@@ -169,6 +173,7 @@ h1, h2 {
     border-radius: 5px;
 }
 
+
 .email-box {
     border: groove 4px;
     margin: 10px;
@@ -230,6 +235,10 @@ h3 {
     color: #7c7986;
     letter-spacing: 2px;
     
+}
+
+.menu-header {
+    text-align: center;
 }
 
 .full-menu {
@@ -328,7 +337,7 @@ textarea {
 @media screen and (max-width: 1170px) {
     #photos {
         width: 100%;
-        height: 800px;
+        height: 750px;
         margin: 0 auto;
     }
 
@@ -351,6 +360,7 @@ textarea {
     }
     .book-table {
         width: fit-content;
+        margin:auto;
         
         
     }
@@ -361,9 +371,10 @@ textarea {
 
 @media screen and (max-width: 930px) {
     .my-header {
-        height: 125px;
+        height: 140px;
         
     }
+
 
 
     #header-links {
@@ -385,7 +396,7 @@ textarea {
     }
     #photos {
         width: 100%;
-        height: 600px;
+        height: 550px;
         margin: 0 auto;
     }
 }
@@ -399,7 +410,7 @@ textarea {
     
     #header-links {
     float: left;
-    margin-left: 10px;
+    margin-left: 200px;
     
     }
     
@@ -432,13 +443,20 @@ textarea {
 
 }
 
-/* For screen sizes 526px and below */
+/* For screen sizes 540px and below */
 
-@media screen and (max-width: 526px) {
+@media screen and (max-width: 540px) {
     
     .book-table {
         width: fit-content;
     }
 
+    #header-links {
+        margin: inherit;
+    }
     
+    .grid-container {
+    display:revert;
+    width:40%;
+    }
 }
