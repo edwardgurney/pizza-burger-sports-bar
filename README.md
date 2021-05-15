@@ -151,12 +151,12 @@
         - Git - Git was used for version control by commiting to Gitpod and pushing to Github.
         - Github - Is used to store the code
 
-## Unfixed bugs
+## **Unfixed bugs**
 
   * The label 'message' for the textarea box on the homepage does not appear at the top of the box, it appears at the bottom.
   * On some mobile devices the gap between the photos and the message/upcoming events section can become larger than desired.
 
-## Fixed Bugs
+## **Fixed Bugs**
 
   * Some improvement was made to the alignment of the text in the header from 930px.
   * The book a table heading was fixed to align center, previoulsy this wasn;t happening. 
