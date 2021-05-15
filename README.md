@@ -6,8 +6,9 @@
  
   This project is for a pizza and burgr sports bar. The concept of the website is to target potential visitors of the bar and provide the information required for anyone looking for more informtion, they can get the location and address, view the menu, look at upcoming events and also book a table or make contact. The bar is trying to be an upmarket sports bar, so customers can watch sport in nice surroundings, eating nice food and rinking good beer with friends. 
 
-  **Pictures on different screen (desktop, tablet mobile)**
+
 <img src="./assets/images/Screenshot 2021-05-15 at 14.47.34.png">
+
 ## **User Experience**
 
 
@@ -40,6 +41,18 @@
   ### **Imagery**
 
   - The hero image of the entrance of the venue was used becasue it gives an immediate feel for the venue and shows it's relaxed design. It is very apparent when the site loads and will illicit immediate feelings of comfort to the user. 
+
+## **Wireframes**
+
+ - Homepage Wireframe [view](https://github.com/edwardgurney/pizza-burger-sports-bar/tree/master/wireframes)
+ - Menu Wireframe [view]
+ - Book Wireframe
+ - Phone Homepage Wireframe [view](https://github.com/edwardgurney/pizza-burger-sports-bar/blob/master/wireframes/Sports%20Bar%20Home.png)
+ - Phone Menu Wireframe
+ - Phone Book Wireframe
+
+
+
 
 
 ## **Features**
