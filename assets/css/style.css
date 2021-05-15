@@ -12,8 +12,6 @@ body {
     color: #5a585e;
 }
 
-
-
 /* header and styling */
 
 .my-header {
@@ -148,10 +146,12 @@ h1, h2 {
     padding: 10px;
     border-radius: 5px;
     
+    
 }
 
 .upcoming-events >h3 {
     font-family:  raleway, sans-serif;
+    color:  #5a585e;
 
 }
 
@@ -185,7 +185,8 @@ h1, h2 {
     margin: 10px 25px 20px;
     padding: 5px;
     border-radius: 5px;
-    font-family: raleway, sans-serif;  
+    font-family: raleway, sans-serif;
+    color:  #5a585e;  
 }
 
 #submit-button input:hover {
@@ -215,24 +216,24 @@ footer {
 
 .facebok-link {
     padding: 10%;
-    color: #928f9d;
+    color:  #5a585e;
 }
 
 .insta-link {
     padding: 10%;
-    color: #928f9d;
+    color:  #5a585e;
 }
 
 .twitter-link {
     padding: 10%;
-    color: #928f9d;
+    color:  #5a585e;
 }
 
 /*menu*/
 
 h3 {
     font-family: lobster, sans-serif;
-    color: #7c7986;
+    color:  #5a585e;
     letter-spacing: 2px;
     
 }
@@ -245,6 +246,7 @@ h3 {
     text-align: center;
     line-height: 2.5;
     margin: 75px;
+    color:  #5a585e;
 }
 
 /*Book a Table*/
@@ -272,6 +274,7 @@ h3 {
     width: 95%;
     border-radius: 5px;
     margin: 5px;
+    
 }
 
 .email-box2 {
@@ -286,6 +289,7 @@ h3 {
     border-radius: 5px;
     margin: 5px;
     font-family: raleway, sans-serif;
+    color:  #5a585e;
 }
 
 .time-box {
@@ -313,6 +317,7 @@ h3 {
     margin: 5px;
     padding: 5px;
     font-family: raleway, sans-serif;
+    color:  #5a585e;
 }
 
 
@@ -453,8 +458,8 @@ textarea {
     }
     
     .grid-container {
-    display:revert;
-    width:40%;
+        grid-template-columns: 1fr;
+        width: 75%;
     }
 
     .flexbox-container {
@@ -464,9 +469,22 @@ textarea {
 
     .contact-us {
         margin-right: 50px;
-        margin-top: 450px;
+        margin-top: 520px;
     }
     .my-header {
         height: 220px;
         }
+
+    .burgers-img {
+        width: 50%;
+        height: 75%;
+        margin: 0 auto;
+        }
+    
+    .pizza-img {
+        width: 50%;
+        height: 75%;
+        margin: 0 auto;
+            margin-bottom: 0%;
+    }
 }
