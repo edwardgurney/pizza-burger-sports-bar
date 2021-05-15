@@ -1,14 +1,13 @@
 # **Pizza and Burger Sports Bar**
 
- ### **Link to site** View this live site here
+ ### **Link to site** View this live site here:
+
+ https://edwardgurney.github.io/pizza-burger-sports-bar/index.html
  
   This project is for a pizza and burgr sports bar. The concept of the website is to target potential visitors of the bar and provide the information required for anyone looking for more informtion, they can get the location and address, view the menu, look at upcoming events and also book a table or make contact. The bar is trying to be an upmarket sports bar, so customers can watch sport in nice surroundings, eating nice food and rinking good beer with friends. 
 
   **Pictures on different screen (desktop, tablet mobile)**
-
-
-
-  Link will appear here.
+<img src="./assets/images/Screenshot 2021-05-15 at 14.47.34.png">
 ## **User Experience**
 
 

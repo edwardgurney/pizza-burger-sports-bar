@@ -457,6 +457,10 @@ textarea {
         margin: inherit;
     }
     
+    /* .grid-container {
+        grid-template-columns: 1fr 1fr;
+        width: 100%; */
+
     .grid-container {
         grid-template-columns: 1fr;
         width: 75%;
