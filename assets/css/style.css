@@ -228,6 +228,8 @@ h3 {
 .main-details {  
     width: 30%;
     padding: 20px;
+    color: #252538;
+
     /* color: #5a585e; */
 }
 
@@ -240,6 +242,9 @@ h3 {
     width: 95%;
     border-radius: 5px;
     margin: 5px;
+    color: #252538;
+    border-color: #252538;
+
 }
 
 .email-box2 {
@@ -247,6 +252,9 @@ h3 {
     border-style: groove;
     border-radius: 5px;
     margin: 5px;
+    color: #252538;
+    border-color: #252538;
+
 }
 
 .date-box {
@@ -254,26 +262,34 @@ h3 {
     border-radius: 5px;
     margin: 5px;
     font-family: raleway, sans-serif;
-    color:  #5a585e;
+    color: #252538;
+    border-color: #252538;
+
 }
 
 .time-box {
     border-style: groove;
     border-radius: 5px;
     margin: 5px;
+    color: #252538;
     font-family: raleway, sans-serif;
+    border-color: #252538;
 }
 
 .party-size-box {
     border-style: groove;
     border-radius: 5px;
     margin: 5px;
+    color: #252538;
+    border-color: #252538;
 }
 
 .number-box {
     border-style: groove;
     border-radius: 5px;
     margin: 5px;
+    color: #252538;
+    border-color: #252538;
 }
 
 .submit-box2 {
@@ -282,23 +298,33 @@ h3 {
     margin: 5px;
     padding: 5px;
     font-family: raleway, sans-serif;
-    color:  #5a585e;
+    color: #252538;
+    border-color: #252538;
+
 }
 
 .message-staff-box {
     border-style: groove;
     border-radius: 5px;
     margin: 5px;
+    color: #252538;
+    border-color: #252538;
+
 }
 
 #request-box {
     border-style: groove;
     border-radius: 5px;
     margin: 5px;
+    color: #252538;
+    border-color: #252538;
+
 }
 
 textarea {
     font-family: raleway, sans-serif;
+    color: #252538;
+
 }
 
 /* media queries */
