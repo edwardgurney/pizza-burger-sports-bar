@@ -135,6 +135,14 @@
 
       I asked family to test run the website on their phones for futher testing.
 
+     I used [link](http://www.responsinator.com/) which checks the site on a number of mobile screens and tablets (landscape and portrait) including:
+     
+      - Iphone X
+      - Android Pixel 2
+      - Iphone 6,7,8
+      - Ipad
+
+
 ## **Languages Used**
 
   * ###  HTML

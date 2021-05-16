@@ -113,8 +113,10 @@ h1, h2 {
 .flexbox-container {
     display: flex;
     justify-content: space-around;
+    margin-top: 50px;
     align-items: center;
     margin: 50px;
+    margin-bottom: 250px
 }
 
 .contact-us {
@@ -229,9 +231,8 @@ h3 {
     width: 30%;
     padding: 20px;
     color: #252538;
-
-    /* color: #5a585e; */
 }
+
 
 .other-details { 
     padding: 20px;
@@ -350,9 +351,9 @@ textarea {
         margin-bottom: 0%;
     }
 
-    .flexbox-container {
+    /* .flexbox-container {
         margin-top: 0;
-    }
+    } */
 
     .book-table {
         width: fit-content;
