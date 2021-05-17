@@ -482,11 +482,4 @@ textarea {
         margin: 0 auto;
         margin-bottom: 0%;
     }
-/* Iphone XR Screen Testing */
-    @media only screen 
-  and (min-device-width: 320px) 
-  and (max-device-width: 480px)
-  and (-webkit-min-device-pixel-ratio: 2)
-  and (orientation: portrait) {
-}
 }
