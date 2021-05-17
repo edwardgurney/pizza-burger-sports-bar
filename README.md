@@ -157,7 +157,7 @@
 
 ## **Unfixed bugs**
 
-  * On Iphones, the form section that holds the 'Contact Us' and 'Upcoming Events' sections overlap the pizza images. This is something that needs fixing in future versions. 
+  * On Iphones, the form section that holds the 'Contact Us' and 'Upcoming Events' sections overlap the pizza images. This is something that needs fixing in future versions. Research into some Iphone specfic media queries may solve this issue. 
   The label 'message' for the textarea box on the homepage does not appear at the top of the box, it appears at the bottom.
   * On some mobile devices the gap between the photos and the message/upcoming events section can become larger than desired.
 
