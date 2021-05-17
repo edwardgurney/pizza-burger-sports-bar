@@ -45,15 +45,11 @@
 ## **Wireframes**
 
  - Homepage Wireframe [view](https://github.com/edwardgurney/pizza-burger-sports-bar/tree/master/wireframes)
- - Menu Wireframe [view]
+ - Menu Wireframe
  - Book Wireframe
  - Phone Homepage Wireframe [view](https://github.com/edwardgurney/pizza-burger-sports-bar/tree/master/wireframes)
  - Phone Menu Wireframe
  - Phone Book Wireframe
-
-
-
-
 
 ## **Features**
 
@@ -167,7 +163,7 @@
 ## **Fixed Bugs**
 
   * Some improvement was made to the alignment of the text in the header from 930px.
-  * The book a table heading was fixed to align center, previoulsy this wasn;t happening. 
+  * The book a table heading was fixed to align center, previoulsy this wasn't happening. 
 
 ## **Deployment**
 
@@ -203,7 +199,7 @@ The project was deployed to Githib pages in the following way:
 
       - I had some assistance from student support on sizing the hero image so that it sat better on the homepage
 
-      - I discoverd that using multiple <br> (for my menu section) is bad practice and that you should use <p>&nbsp;</p>. I read this on a few webpages but the first one was https://www.quora.com/How-can-I-add-multiple-blank-lines-in-HTML#:~:text=Skipping%20an%20entire%20line%20in,arguably%20not%20a%20best%20practice. (I used a couple of different methods to show vairation, so I also targetted the class="full-menu" with with some line-height in the CSS file).
+      - I discoverd that using multiple break elements (for my menu section) is bad practice and that you should use '&nbsp' between paragraph elements. I read this on a few webpages but the first one was https://www.quora.com/How-can-I-add-multiple-blank-lines-in-HTML#:~:text=Skipping%20an%20entire%20line%20in,arguably%20not%20a%20best%20practice. (I used a couple of different methods to show vairation, so I also targetted the class="full-menu" with with some line-height in the CSS file).
 
  * Acknowledgements 
 
