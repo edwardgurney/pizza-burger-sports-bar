@@ -17,7 +17,6 @@ body {
     height: 70px;
 }
 
-
 /*display: inline-block for the h2 element was obtained from student support when my 'book a table' heading was not 
 aligning correctly on the booking page*/
 
@@ -350,10 +349,6 @@ textarea {
         margin: 0 auto;
         margin-bottom: 0%;
     }
-
-    /* .flexbox-container {
-        margin-top: 0;
-    } */
 
     .book-table {
         width: fit-content;
